@@ -1,0 +1,7 @@
+10/12 14:04:44: Launching 'app' on Pixel XL API 30 2.
+Installation did not succeed.
+The application could not be installed: INSTALL_FAILED_OLDER_SDK
+
+List of apks:
+[0] 'C:\Users\nsus\AndroidStudioProjects\Pedometer\app\build\outputs\apk\debug\app-debug.apk'
+The application's minSdkVersion is newer than the device API level.
